@@ -29,7 +29,7 @@ function App() {
       </div>
       <div className='list'>
         <h4>{글제목[2]} <span onClick={() => { 따봉변경(따봉 + 1) }}>👍</span> {따봉} </h4>
-        <p>2월 17일 발행s2</p>
+        <p>2월 17일 발행s5</p>
       </div>
 
 
