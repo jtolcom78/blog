@@ -33,7 +33,9 @@ function App() {
       </div>
 
 
-      <Modal></Modal>
+      <Modal>
+        
+      </Modal>
 
     </div>
   );
